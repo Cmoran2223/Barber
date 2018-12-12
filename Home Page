@@ -1,0 +1,139 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+}
+
+.pimg{
+	width: 100%;
+	min-height: 60%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url('https://cdn.logojoy.com/wp-content/uploads/2018/05/30161114/3_big6-768x591.png');
+}
+
+nav{
+	margin-top: 10px;
+	width: 100%;
+	height: 50px;
+	font-size: 25px;
+	text-align: center;
+	opacity: 0.9;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 2px 20px 2px 20px;
+	margin-left: 23px;
+	margin-right: 23px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+nav ul li a:hover{
+	cursor: pointer;
+	color: #969696;
+	transition: 0.4s;
+}
+
+
+.BGIMG{
+	width: 100%;
+	min-height: 50%;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-image: url('https://www.vexels.com/media/users//3/139513/raw/fca78715726437457a96b93330b35b89.jpg');
+}
+
+.LoginBox{
+	text-align: center;
+	width: 350px;
+	height: 520px;
+	padding-top: 40px;
+	margin-left: 500px;
+	box-sizing: border-box;
+	font-weight: bold
+}
+
+
+.LoginBox input{
+	width: 100%;
+	margin-bottom: 20px;
+	height: 25px;
+}
+
+.LoginBox input[type="text"],
+.LoginBox input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid black;
+	background: transparent;
+	font-size: 16px;
+	outline: none;
+	height: 40px;
+}
+
+
+.LoginBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 30px;
+	color: #fff;
+	font-size: 16px;
+	background: #b50000;
+	cursor: pointer;
+	border-radius: 20px;
+}
+
+.LoginBox input[type="submit"]:hover{
+	text-decoration: underline;
+}
+
+.LoginBox a{
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-size: 14px;
+}
+
+.LoginBox a:hover{
+	text-decoration: underline;
+}
+
+footer{
+	background-color: #565656;
+	padding: 5px;
+	text-align: center;
+	color: #fff;
+}
+
+footer p{
+	padding-top: 10px; 
+}
+
+.Smedia ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.Smedia ul li{
+	display: inline;
+	padding: 40px;
+}
+
+.Smedia ul li img{
+	height: 50px;
+	padding-top: 10px;
+}
