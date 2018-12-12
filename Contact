@@ -1,0 +1,40 @@
+<html>
+<head>
+
+  <title>Barber</title>
+  <link rel="stylesheet" href="contact.css">
+
+</head>
+<body>
+
+  <div class="pimg">
+  </div>
+  
+  <nav>
+  <ul>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/index.html">Home</a></li>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/about.html">About</a></li>
+   <li><a href="">Contact</a></li>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/register.html">Register</a></li>
+  </ul>
+ </nav>
+ 
+ <div class="BGIMG">
+ </div>
+ 
+ <div class="info">
+ <p>Email:   con.moran@btinternet.com</h2>
+ <p>Phone:   07889880497</h2>
+ </div>
+  
+  <footer>
+  <div class="Smedia">
+	<ul>
+	 <li><a href="https://www.facebook.com" target="blank"><img src="https://www.w3newbie.com/wp-content/uploads/facebook1.png"/></a></li>
+	 <li><a href="https://www.googleplus.com" target="blank"><img src="https://www.w3newbie.com/wp-content/uploads/googleplus.png"/></a></li>
+	 <li><a href="https://www.twitter.com" target="blank"><img src="https://www.w3newbie.com/wp-content/uploads/twitter1.png"/></a></li>
+	 <li><a href="https://www.youtube.com" target="blank"><img src="https://www.w3newbie.com/wp-content/uploads/youtube1.png"/></a></li>
+	</ul>
+  </div>
+  <p>&copy; Barber.</p>
+ </footer>
