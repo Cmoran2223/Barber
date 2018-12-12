@@ -1,0 +1,43 @@
+<html>
+<head>
+
+  <title>Barber</title>
+  <link rel="stylesheet" href="register.css">
+
+</head>
+<body>
+
+  <div class="pimg">
+  </div>
+  
+  <nav>
+  <ul>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/index.html">Home</a></li>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/about.html">About</a></li>
+   <li><a href="file:///C:/Users/conor/Documents/Tutorials/Barber/contact.html">Contact</a></li>
+   <li><a href="">Register</a></li>
+  </ul>
+ </nav>
+ 
+ <div class="LoginBox">
+     <h1>Creat An Account</h1>
+	 </br>
+	 <form>
+	 <p>First Name</p>
+	 <input type="text" name="" placeholder="First Name">
+	 <p>Last Name</p>
+	 <input type="text" name="" placeholder="Last Name">
+	 <p>Email</p>
+	 <input type="text" name="" placeholder="Enter Email">
+	 <p>Password</p>
+	 <input type="password" name="" placeholder="*******">
+	 <p>Repeat Password</p>
+	 <input type="password" name="" placeholder="*******">
+	 <input type="submit" name="" value="Sign Up">
+	 <br>
+	 </form>
+  </div>
+  
+
+</body>
+</html>
